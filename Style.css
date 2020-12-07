@@ -1,0 +1,185 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    color: #999966;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+#new_york {
+    color: white;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 5%;
+    background-image: url("/img/new_york.jpg");
+    height: 500px;
+    font-size: 15px;
+    width:100%;
+}
+
+#description {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 15%;
+    margin-right: 25%
+}
+
+.button {
+    border-radius: 2px;
+}
+
+.button1 {
+    background-color: #33cc33;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 50px;
+    color: white;
+    border: hidden;
+    padding: 7px 10px;
+}
+
+    .button1:hover {
+        background-color: #70db70;
+    }
+
+.vl {
+    border-left: 2px solid white;
+    height: 20px;
+}
+
+#new_york .hr {
+    border-bottom: 1px solid white;
+    width: 85%;
+    margin-left: 0%;
+}
+
+.hr {
+    border-bottom: 1px solid #00cc00;
+    width: 5%;
+    margin-left: 47.5%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    color: #206040;
+    padding-top: 40px;
+}
+
+#about {
+    margin-top: 30px;
+    margin-left: 23%;
+    margin-right: 23%;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.list-group {
+    width: 75%;
+}
+
+table {
+    width: 81%;
+    margin: auto;
+}
+
+#about_t table {
+    margin-left: 15%;
+}
+
+th {
+    color: #206040;
+}
+
+#about_t td, th {
+    width: 27%;
+    text-align: center;
+}
+
+#team {
+    background-color: #eaeae1;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#p_team {
+    margin-top: 30px;
+    margin-left: 23%;
+    margin-right: 23%;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+#team_t_d {
+    margin-left: 6%;
+    padding-bottom: 75px;
+}
+
+#team_t th, td {
+    text-align: left;
+    padding: 2px;
+}
+
+#download_d {
+    background-image: url("/img/green_vector.jpg");
+    color: white;
+    padding-left: 13%;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+aside {
+    float: right;
+    width: 35%;
+    margin-top: -15px;
+}
+
+.button2 {
+    background-color: #558000;
+    color: white;
+    border: hidden;
+    padding: 7px 10px;
+    font-size: 14px;
+}
+
+    .button2:hover {
+        background-color: #334d00;
+    }
+
+footer {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#footer_t th {
+    text-align: left;
+}
+
+ion-icon {
+    font-size: 20px;
+}
+
+footer .hr {
+    border-bottom: 1px solid #eaeae1;
+    width: 81%;
+    margin-left: 9.5%;
+}
+
+#footer_p {
+    margin-left: 9.5%;
+}
